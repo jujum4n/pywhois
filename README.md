@@ -4,16 +4,14 @@
  * Works with several TLDS
 
 
-I'm no good at writing sample / filler text, so go write something yourself.
+This project is a work in progress, lacks error ehcking, and was used only for a specific purpose.
 
-Look, a list!
+Todo:
+ * Error Checking
+ * Reporting
+ * Deal with muti-TLDS
 
- * foo
- * bar
- * baz
-
-And here's some code!
-
+Example Usage:
 ```python
 import pywhois
 
